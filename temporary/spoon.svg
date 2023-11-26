@@ -37,7 +37,7 @@
      inkscape:label="icon"
      inkscape:groupmode="layer"
      id="layer1"><circle
-       style="opacity:0.91733801;fill:#FILL_COLOR;stroke:#BORDER_COLOR;stroke-width:0.865;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:0.91733801;fill:#a2ea6f;stroke:#25737e;stroke-width:0.865;stroke-dasharray:none;stroke-opacity:1"
        id="border"
        cx="106.26369"
        cy="75.4403"
@@ -47,7 +47,7 @@
      width="40.060562"
      height="46.884125"
      preserveAspectRatio="none"
-     xlink:href="IMAGE_LINK"
+     xlink:href="/home/diegorubin/Repos/diegorubin/badges/imgs/spoon.png"
      id="imgContent"
      x="87.15239"
      y="53.480606"
